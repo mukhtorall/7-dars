@@ -1,0 +1,704 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #F2CEDA;
+}
+.bosh>ul{
+    list-style: none;
+}
+.bosh{
+    position: absolute;
+    width: 79px;
+    height: 79px;
+    left: 245px;
+    top: 10px;
+}
+.nom1{
+    position: absolute;
+    top: 35px;
+    left: 330px;
+}
+.nom2{
+    position: absolute;
+    top: 35px;
+    left: 430px;
+}
+.nom3{
+    position: absolute;
+    top: 35px;
+    left: 530px;
+}
+.nom4{
+    position: absolute;
+    top: 35px;
+    left: 630px;
+}
+.nom5{
+    position: absolute;
+    top: 35px;
+    left: 730px;
+}
+.btn1{
+    position: absolute;
+    width: 95px;
+    height: 39px;
+    border-radius: 5px;
+    border: solid white;
+    background-color:#D23166;
+    color: white;
+    top: 28px;
+    left: 900px;
+}
+.btn1:hover{
+    background-color: green;
+}
+.nomm1{
+    position: absolute;
+    top: 230px;
+    left: 254px;
+}
+.nomm2{
+    position: absolute;
+    top: 250px;
+    left: 254px;
+}
+.nomm3{
+    color: #D64474;
+} 
+.nomm4{
+    position: absolute;
+    top: 380px;
+    left: 254px;
+    opacity: 0.8;
+}
+.btn2{
+    position: absolute;
+    width: 120px;
+    height: 39px;
+    border-radius: 5px;
+    border: solid white;
+    background-color:#D23166;
+    color: white;
+    top: 480px;
+    left: 255px;
+}
+.btn2:hover{
+    background-color: blue;
+}
+.yarimidv{
+    position: absolute;
+    box-sizing: border-box;
+    top: 90px;
+    left: 550px;
+}
+.ikki{
+    position: absolute;
+    width: 1348px;
+    height: 350px;
+    top: 850px;
+    background-color: white !important;
+}
+.mown{
+    position: absolute;
+    width: 225px;
+    height: 185px;
+    background-color: white;
+    top: 900px;
+    left: 120px;
+}
+.mown1{
+    position: absolute;
+    top: 30px;
+    left: 85px;
+}
+.mown2{
+    position: absolute;
+    top: 85px;
+    left: 50px;
+}
+.mown3{
+    position: absolute;
+    top: 107px;
+    left: 20px;
+    opacity: 0.7;
+}
+.ikkin{
+    position: absolute;
+    width: 225px;
+    height: 185px;
+    background-color: white;
+    top: 900px;
+    left: 400px;
+}
+.ubay{
+    position: absolute;
+    top: 30px;
+    left: 95px;
+}
+.ikkin3{
+    position: absolute;
+    top: 85px;
+    left: 45px;
+}
+.ikkin4{
+    position: absolute;
+    top: 107px;
+    left: 20px;
+    opacity: 0.7;
+}
+.uchn{
+    position: absolute;
+    width: 225px;
+    height: 185px;
+    background-color: white;
+    top: 900px;
+    left: 675px;
+}
+.uchn1{
+    position: absolute;
+    top: 30px;
+    left: 90px;
+}
+.uchn2{
+    position: absolute;
+    top: 85px;
+    left: 45px;
+}
+.uchn3{
+    position: absolute;
+    top: 107px;
+    left: 20px;
+    opacity: 0.7;
+}
+.tortn{
+    position: absolute;
+    width: 225px;
+    height: 185px;
+    background-color: white;
+    top: 900px;
+    left: 950px;
+}
+.tortn1{
+    position: absolute;
+    top: 25px;
+    left: 85px;
+}
+.tortn2{
+    position: absolute;
+    top: 85px;
+    left: 45px;
+}
+.tortn3{
+    position: absolute;
+    top: 107px;
+    left: 20px;
+    opacity: 0.7;
+}
+.yoziv{
+    position: absolute;
+    top: 1300px;
+    left: 110px;
+}
+.yozich{
+    position: absolute;
+    top: 50px;
+    opacity: 0.8;
+}
+.btn3{
+    position: absolute;
+    width: 160px;
+    height: 45px;
+    top: 1450px;
+    left: 100px;
+    background-color: #D23166;
+    color: white;
+    border: solid white;
+}
+.btn3:hover{
+    background-color: orange;
+}
+.sektion{
+    position: absolute;
+    top: 1090px;
+    left: 600px;
+}
+.sektion:hover{
+    border: 1px solid black;
+    
+}
+.pastlar1{
+    position: absolute;
+    top: 1850px;
+    left: 560px;
+}
+.pastlar>ul{
+    list-style: none;
+}
+.mor1{
+    position: absolute;
+    top: 1980px;
+    left: 250px;
+    opacity: 0.8;
+}
+.mor2{
+    position: absolute;
+    top: 1980px;
+    left: 370px;
+    opacity: 0.8;
+}
+.mor3{
+    position: absolute;
+    top: 1980px;
+    left: 570px;
+    opacity: 0.8;
+}
+.mor4{
+    position: absolute;
+    top: 1980px;
+    left: 700px;
+    opacity: 0.8;
+}
+.mor5{
+    position: absolute;
+    top: 1980px;
+    left: 830px;
+    opacity: 0.8;
+}
+.mor6{
+    position: absolute;
+    top: 1980px;
+    left: 950px;
+    opacity: 0.8;
+}   
+.jini{
+    position: absolute;
+    top: 2090px;
+    left: 90px;
+}
+.jini:hover{
+    border: 1px solid black;
+}
+.jini2{
+    position: absolute;
+    top: 2150px;
+    left: 850px;
+}
+.jini3{
+    position: absolute;
+    top: 2190px;
+    left: 850px;
+    opacity: 0.7;
+}
+.jini4{
+    position: absolute;
+    top: 2300px;
+    left: 850px;
+}
+.jini5{
+    position: absolute;
+    text-decoration: line-through;
+    top: 2310px;
+    left: 942px;
+    opacity: 0.7;
+}
+.btn4{
+    position: absolute;
+    width: 160px;
+    height: 45px;
+    top: 2340px;
+    left: 848px;
+    background-color: #D23166;
+    color: white;
+    border: solid white;
+}
+.btn4:hover{
+    background-color: red;
+}
+.aqli{
+    position: absolute;
+    top: 2650px;
+    left: 700px;
+}
+.aqli:active{
+    border: 1px solid black;
+}
+.aqli2{
+    position: absolute;
+    top: 2750px;
+    left: 200px;
+}
+.aqli3{
+    position: absolute;
+    top: 2790px;
+    left: 200px;
+    opacity: 0.7;
+}
+.aqli4{
+    position: absolute;
+    top: 2890px;
+    left: 200px;
+}
+.aqli5{
+    position: absolute;
+    text-decoration: line-through;
+    top: 2902px;
+    left: 290px;
+    opacity: 0.7;
+}
+.btn5{
+    position: absolute;
+    width: 160px;
+    height: 45px;
+    top: 2930px;
+    left: 200px;
+    background-color: #D23166;
+    color: white;
+    border: solid white;
+}
+.btn5:hover{
+    background-color: brown;
+}
+.esli{
+    position: absolute;
+    top: 3220px;
+    left: 90px;
+}
+.esli:active{
+    border: 1px solid black;
+}
+.esli2{
+    position: absolute;
+    top: 3310px;
+    left: 850px;
+}
+.esli3{
+    position: absolute;
+    top: 3350px;
+    left: 850px;
+    opacity: 0.7;
+}
+.esli4{
+    position: absolute;
+    top: 3440px;
+    left: 850px;
+}
+.esli5{
+    position: absolute;
+    text-decoration: line-through;
+    top: 3450px;
+    left: 942px;
+    opacity: 0.7;
+}
+.btn6{
+    position: absolute;
+    width: 160px;
+    height: 45px;
+    top: 3480px;
+    left: 848px;
+    background-color: #D23166;
+    color: white;
+    border: solid white;
+}
+.btn6:hover{
+    background-color: yellow;
+}
+.yaxshi{
+    position: absolute;
+    top: 3770px;
+    left: 700px;
+}
+.yaxshi:hover{
+    border: 1px solid black;
+}
+.yaxshi2{
+    position: absolute;
+    top: 3850px;
+    left: 250px;
+}
+.yaxshi3{
+    position: absolute;
+    top: 3920px;
+    left: 250px;
+    opacity: 0.7;
+}
+.yaxshi4{
+    position: absolute;
+    top: 4000px;
+    left: 250px;
+}
+.yaxshi5{   
+    position: absolute;
+    text-decoration: line-through;
+    top: 4010px;
+    left: 340px;
+    opacity: 0.7;
+}
+.btn7{
+    position: absolute;
+    width: 160px;
+    height: 45px;
+    top: 4040px;
+    left: 240px;
+    background-color: #D23166;
+    color: white;
+    border: solid white;
+}
+.btn7:hover{
+    background-color: darkolivegreen;
+}
+.passi{
+    position: absolute;
+    background-color:#F8EDF0;
+}
+.dumaloq{
+    position: absolute;
+    top: 4300px;
+    left: 100px;
+}
+.yiq{
+    position: absolute;
+    margin-top: 4330px;
+    left: 600px;
+}
+.yiq2{
+    position: absolute;
+    margin-top: 4375px;
+    left: 600px;
+    opacity: 0.7;
+}
+.yonlaar{
+    position: absolute;
+    top: 4600px;
+    left: 600px;
+     
+}
+.wu{
+    position: absolute;
+    top: 4600px;
+    left: 630px;
+}
+.chekka{
+    position: absolute;
+    top: 4635px;
+    left: 600px;
+}
+.chekka3{
+    position: absolute;
+    top: 4630px;
+    left: 630px;
+}
+.sekka{
+    position: absolute;
+    top: 4665px;
+    left: 605px;
+}
+.sekka3{
+    position: absolute;
+    top: 4660px;
+    left: 630px;
+}
+.play{
+    position: absolute;
+    top: 4800px;
+    left: 600px;
+}
+.play2{
+    position: absolute;
+    top: 4795px;
+    left: 810px;
+}
+.footerr2{
+    position: absolute;
+    top: 5300px;
+    left: 500px;
+} 
+.zara{
+    width: 303px;
+    height: 74px;
+}
+.footerr3{
+    position: absolute;
+    
+    top: 5450px;
+    left: 350px;
+}
+.zara11{
+    width: 303px;
+    height: 74px;
+}
+.xaka{
+    position: absolute;
+    top: 000px;
+    left: 350px;
+}
+.jaka{
+    position: absolute;
+    top: 100px;
+    left: 0px;
+}
+.zara111{
+    width: 540px;
+    height: 74px;
+}
+.btn9{
+    position: absolute;
+    width: 80px;
+    height: 74px;
+    top: 100px;
+    left: 538px;
+    background-color:#D64374;
+}
+.btn9:hover{
+    background-color: aqua;
+}
+.foter{
+    position: absolute;
+    width: 1600px;
+    height: 381px;
+    left: 0px;
+    top: 5700px;
+    background: #0A0808;
+}
+.foter2{
+    position: absolute;
+    top: 100px;
+    left: 200px;
+}
+.fotyoz{
+    position: absolute;
+    top: 190px;
+    left: 200px;
+    opacity: 0.7;
+}
+.fotyoz2{
+    position: absolute;
+    top: 270px;
+    left: 200px;
+    opacity: 0.7;
+}
+.rasmun2{
+    position: absolute;
+    top: 300px;
+    left: 200px;
+
+}
+.rasmun3{
+    position: absolute;
+    top: 300px;
+    left: 220px;
+
+}
+.rasmun4{
+    position: absolute;
+    top: 300px;
+    left: 240px;
+
+}
+.rasmun5{
+    position: absolute;
+    top: 300px;
+    left: 260px;
+}
+.yeb>li{
+    list-style: none;
+}
+.hom1{
+    position: absolute;
+    top: 170px;
+    left: 500px;
+}
+.hom2{
+    position: absolute;
+    top: 195px;
+    left: 500px;
+}
+.hom3{
+    position: absolute;
+    top: 220px;
+    left: 500px;
+}
+.hom4{
+    position: absolute;
+    top: 245px;
+    left: 500px;
+}
+.hom5{
+    position: absolute;
+    top: 270px;
+    left: 500px;
+}
+.hom6{
+    position: absolute;
+    top: 295px;
+    left: 500px;
+}
+.yeba>li{
+    list-style: none;
+}
+.qom1{
+    position: absolute;
+    top: 170px;
+    left: 750px;
+}
+.qom2{
+    position: absolute;
+    top: 195px;
+    left: 750px;
+}
+.qom3{
+    position: absolute;
+    top: 220px;
+    left: 750px;
+}
+.qom4{
+    position: absolute;
+    top: 245px;
+    left: 750px;
+}
+.qom5{
+    position: absolute;
+    top: 270px;
+    left: 750px;
+}
+.zora2{
+    position: absolute;
+    top: 120px;
+    left: 1000px;
+}
+.oxirii{
+    position: absolute;
+    width: 250px;
+    height: 55px;
+    background-color: #0A0808;
+    border: 2px solid #D64374 ;
+    top: 180px;
+    left: 1000px;
+}
+.btn10{
+    position: absolute;
+    width: 100px;
+    height: 55px;
+    top: 180px;
+    left: 1240px;
+    border: 2px solid #D64374 ;
+    background-color:#D23166;
+}
+.btn10:hover{
+    background-color: green;
+}
+.zzz2{
+    position: absolute;
+    top: 260px;
+    left: 1000px;
+}
+.zzz3{
+    position: absolute;
+    top: 5960px;
+    left: 1035px;
+}
+.zzzz3{
+    position: absolute;
+    top: 5963px;
+    left: 1085px;
+}
